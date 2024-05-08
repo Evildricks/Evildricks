@@ -8,7 +8,7 @@
 - 📫 How to reach me **www.linkedin.com/in/yash-aggarwal-07693022a**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
